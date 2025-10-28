@@ -38,3 +38,9 @@ This project demonstrates proficiency in Bash scripting and the use of core Linu
 ## Example Output
 
 (Note: This output is based on the 10-line sample `access.log` used for development.)
+
+    ## Project Source
+
+This project was completed as part of the backend developer roadmap from roadmap.sh.
+
+**Project Page URL:** [https://roadmap.sh/projects/Nginx Log Analyserl](https://roadmap.sh/projects/nginx-log-analyser)
